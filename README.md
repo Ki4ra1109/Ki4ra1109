@@ -16,7 +16,7 @@ Soy estudiante de **Ingeniería en Informática en DuocUC**, con un enfoque en e
 - **Administración de Empresas** - Instituto Comercial Eliodoro Domínguez (2018 - 2021)
 
 ### 🏆 Logros Destacados
-- Participación en **VarasFest**, desarrollando proyectos innovadores sobre inclusión y sustentabilidad:
+- Participación en **VarasFest**, desarrollando mockups y planificación de proyectos innovadores sobre inclusión y sustentabilidad en un tiempo limite de 12 horas:
   - 🌐 Creación de una página web para conectar a empresas con personas en situación de discapacidad.
   - 📊 Desarrollo de una app que identifica y aprovecha la energía de la contaminación acústica.
 
