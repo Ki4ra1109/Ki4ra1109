@@ -1,12 +1,13 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Kiara+%F0%9F%91%8B;Desarrolladora+Full-Stack;Backend+en+Laravel+%7C+Frontend+en+Next.js;Aprendiendo+a+programar+con+agentes+de+IA+%F0%9F%A4%96" alt="Typing SVG" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=header" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Kiara%20Rubio%20Romero&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desarrolladora%20Full-Stack%20%26%20Vibe%20Coder&descAlignY=58&descSize=18" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Kiara+%F0%9F%91%8B;Desarrolladora+Full-Stack+%F0%9F%A4%96" alt="Typing SVG" />
+
 </div>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kiara-rubio-a13389251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -123,14 +124,11 @@ Talleres de reciclaje 3D para alumnas de enseñanza media.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ki4ra1109&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ki4ra1109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ki4ra1109&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-> Si alguna tarjeta de arriba no carga a la primera, prueba recargando la página del perfil (Ctrl/Cmd + R) — el servicio gratuito que las genera a veces tarda un segundo en responder.
-
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ki4ra1109&color=6C63FF&style=flat-square&label=Visitas+al+perfil" />
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
