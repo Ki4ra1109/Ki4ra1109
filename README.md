@@ -101,7 +101,7 @@ Hackathon de 27 horas: solución para gestión de voluntarios con RPA (Blue Pris
 
 ### 💼 Experiencia
 
-**Desarrolladora Backend y Líder de Equipo** *(Práctica laboral y profesional)* · Etas Imperdibles SPA *(2025 – remoto)*
+**Desarrolladora Backend y Líder de Equipo** *(Práctica laboral y profesional)* · Ofertas Imperdibles SPA *(2025 – remoto)*
 Servicios backend en Laravel para producción · Integración de la API de Mercado Libre · Documentación de endpoints con Swagger/OpenAPI · Coordinación de equipos Backend/Frontend/Plugins y despliegues en Hostinger.
 
 **Mentora — Proyecto INVENTIVA**, programa MMT (Más Mujeres en las TICs) · DuocUC *(2024)*
